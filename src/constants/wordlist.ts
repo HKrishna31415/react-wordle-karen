@@ -1,5 +1,6 @@
 export const WORDS = [
   'karen',
   'zheng',
-  'cathy' 
+  'cathy',
+  'zhang'
 ]
